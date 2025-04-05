@@ -1,0 +1,34 @@
+{
+    "manifest_version": 3,
+    "version": "1.0",
+    "name": "Sentinels Theme",
+    "theme": {
+      "colors" : {
+        "frame": [196, 37, 55],
+      "toolbar": [203, 84, 98],
+      "toolbar_text": [10, 5, 5],
+      "toolbar_button_icon": [25, 17, 17],
+      "tab_text": [10, 5, 5],
+      "bookmark_text": [10, 5, 5],
+      "ntp_text": [10, 5, 5],
+      "ntp_link": [10, 5, 5],
+      "ntp_background": [211, 156, 163],
+      "omnibox_background": [255, 255, 255],
+      "omnibox_text": [10, 5, 5],
+      "button_background": [196, 37, 55],
+      "logo_color": [10, 5, 5]
+    },
+    "tints": {
+      "buttons": [0.33, 0.5, 0.47]
+    },
+    "images": {
+      "theme_ntp_background": "images/sentinels.png"
+    },
+    "properties": {
+      "ntp_background_alignment": "bottom",
+      "ntp_background_repeat": "no-repeat",
+      "ntp_logo_alternate": "0"
+    }
+  }
+}
+ 
